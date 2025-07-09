@@ -1,0 +1,16 @@
+1. Install Microsoft AutoGen :
+
+pip install pyautogen
+
+# ✅ Importance: AutoGen is the main framework for creating AI agents 
+# that interact and process code into intermediate representations.
+____________________________________________________________________________________________
+
+2. Install PrettyTable : 
+
+pip install prettytable
+
+# ✅ Importance: Used to display the symbol table in a clean table format.
+
+# Python version
+# ✅ Make sure you are using Python >= 3.9
